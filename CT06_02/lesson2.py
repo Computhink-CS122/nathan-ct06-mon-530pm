@@ -35,7 +35,7 @@ print("Hello from lesson 2")
 # ask for test 1 test 2 test 3
 # test 1 x 20% test 2 x 40% test 3 x 40%
 # add test 1 test 2 test 3 and tell them the ans
-test1 = 20
+test1 = input
 test3 = 40
 test2 = 40
 score1=0.25*test1
