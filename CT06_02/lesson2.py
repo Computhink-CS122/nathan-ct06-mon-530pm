@@ -16,4 +16,4 @@ print("Hello from lesson 2")
 # if anwser less than 18
 # access denied
 #say welcome
-# check 
+# check if 
