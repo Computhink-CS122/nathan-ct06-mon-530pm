@@ -24,14 +24,14 @@ print("Hello from lesson 2")
 # if material is plastic put it into plastic bin
 
 
-task 3
+#task 3
 # ask for password 
 #if password is = paasme
 # say correct
 # if no then say wrong
 
 
-
+# task 4
 # ask for test 1 test 2 test 3
 # test 1 x 20% test 2 x 40% test 3 x 40%
 # add test 1 test 2 test 3 and tell them the ans
