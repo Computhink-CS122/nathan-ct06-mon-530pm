@@ -12,3 +12,4 @@ print("Hello from lesson 2")
 # move 10 step
 # turn 15 step
 # c increase by 10
+#
