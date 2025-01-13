@@ -8,4 +8,4 @@ print("Hello from lesson 2")
 # repeat 10 times 
 # say hey
 # move 10 step
-# set c to o 
+# set c to o repeat until 
