@@ -7,3 +7,4 @@ print("Hello from lesson 2")
 # Using comments, translate the code shown on screen into pseudocode.
 # repeat 10 times 
 # say hey
+# move 10 step
