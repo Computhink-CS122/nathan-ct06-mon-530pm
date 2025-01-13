@@ -36,8 +36,8 @@ print("Hello from lesson 2")
 # test 1 x 20% test 2 x 40% test 3 x 40%
 # add test 1 test 2 test 3 and tell them the ans
 test1 =input("test 1 score")
-test1 = int()
-test3 = 40
+test1 = int(test1)
+test1 =input("test 1 score")
 test2 = 40
 score1=0.25*test1
 score2=0.25*test2
