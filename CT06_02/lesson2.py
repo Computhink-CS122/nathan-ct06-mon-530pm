@@ -13,4 +13,5 @@ print("Hello from lesson 2")
 # turn 15 step
 # c increase by 10
 # ask what is ur age
-# if an
+# if anwser less than 18
+#
