@@ -25,4 +25,5 @@ print("Hello from lesson 2")
 # say correct
 # if no then say wrong
 # ask for test 1 test 2 test 3
-# test 1 x 20% test 2 x 40%
+# test 1 x 20% test 2 x 40% test 3 x 40%
+# 
