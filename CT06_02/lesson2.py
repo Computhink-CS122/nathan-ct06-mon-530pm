@@ -10,4 +10,4 @@ print("Hello from lesson 2")
 # move 10 step
 # set c to o repeat until c = 50
 # move 10 step
-# 
+# turn 15 step
