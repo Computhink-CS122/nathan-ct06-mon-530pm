@@ -42,6 +42,7 @@ test2 = int(test2)
 test3 =input("test 3 score")
 test3 = int (test3)
 test4 =input("test 4 score")
+test4 = int()
 score2=0.25*test2
 score1=0.25*test1
 score3=0.25*test3
