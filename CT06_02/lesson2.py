@@ -22,4 +22,5 @@ print("Hello from lesson 2")
 # if material is plastic put it into plastic bin
 # ask for password 
 #if password is = paasme
-# password is 
+# say correct
+# 
