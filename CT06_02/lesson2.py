@@ -42,4 +42,5 @@ score1=0.25*test1
 score2=0.25*test2
 score3=0.25*test3
 score3=0.25*test3
-final= score1 + score2 +score3 + sc
+final= score1 + score2 +score3 + score3
+print
