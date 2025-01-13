@@ -14,4 +14,5 @@ print("Hello from lesson 2")
 # c increase by 10
 # ask what is ur age
 # if anwser less than 18
-#
+# access denied
+#say wlcome
