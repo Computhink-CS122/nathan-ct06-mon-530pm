@@ -38,4 +38,4 @@ print("Hello from lesson 2")
 test1 = 20
 test3 = 40
 test2 = 40
-score1
+score1=0.2*test1
