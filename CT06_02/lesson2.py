@@ -24,4 +24,5 @@ print("Hello from lesson 2")
 #if password is = paasme
 # say correct
 # if no then say wrong
+# ask for grade
 # 
