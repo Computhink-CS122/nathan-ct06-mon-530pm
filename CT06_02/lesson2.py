@@ -16,13 +16,15 @@ print("Hello from lesson 2")
 # if anwser less than 18
 # access denied
 #say welcome
+
+# task 2
 # check if material is glass, plastic, and paper
 # if material is glass put it into glass bin
 # if material is paper put it into paper bin
 # if material is plastic put it into plastic bin
 
 
-
+task 3
 # ask for password 
 #if password is = paasme
 # say correct
