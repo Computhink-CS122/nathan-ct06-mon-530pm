@@ -40,3 +40,4 @@ test3 = 40
 test2 = 40
 score1=0.2*test1
 score2=0.4*test2
+score2=0.25*test2
