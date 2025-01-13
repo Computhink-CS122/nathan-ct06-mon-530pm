@@ -38,7 +38,8 @@ print("Hello from lesson 2")
 test1 =input("test 1 score")
 test1 = int(test1)
 test2 =input("test 2 score")
-test2 = int(test)
+test2 = int(test2)
+test2 =input("test 2 score")
 score1=0.25*test1
 score2=0.25*test2
 score3=0.25*test3
