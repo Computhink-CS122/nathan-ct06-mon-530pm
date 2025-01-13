@@ -42,7 +42,7 @@ test2 = int(test2)
 test3 =input("test 3 score")
 test3 = int (test3)
 score2=0.25*test2
-score3=0.25*test3
+score1=0.25*test1
 score3=0.25*test3
 final= score1 + score2 +score3 + score3
 print("your final score is", final)
