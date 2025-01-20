@@ -5,8 +5,7 @@ print(na)
 
 c = input("what is ur fav colour")
 
-
-
+p
 
 
 
