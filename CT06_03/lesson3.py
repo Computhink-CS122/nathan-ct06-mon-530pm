@@ -5,7 +5,7 @@ print("Hello from lesson 3")
 #x = 10
 #x = 20
 #print ("x")
-
+# task 2
 num1 = 5
 num2 = 32
 print(num1 + num2)
