@@ -24,7 +24,7 @@ print( a + b)
 c = 50
 d = 10
 e = 3
-print(c -d  )
+print(c -d *  )
 
 
 
