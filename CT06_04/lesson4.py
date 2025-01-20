@@ -11,7 +11,7 @@
 
 # print(age)
 
-
+# task2
 na = input("what is ur name ")
 print("Hi "+ na)
 
