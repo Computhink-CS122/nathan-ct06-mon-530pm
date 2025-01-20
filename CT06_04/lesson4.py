@@ -1,9 +1,9 @@
 print("Hello from lesson 4")
-na = input("")
+na = input("what is ur age")
 
 print(na)
 
-c = input()
+c = input(Wh)
 
 
 
