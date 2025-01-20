@@ -24,8 +24,8 @@ print( a + b)
 c = (50 - 10)*3
 print(c)
 
-d= 100/
-
+d= 100/4
+print
 
 
 
