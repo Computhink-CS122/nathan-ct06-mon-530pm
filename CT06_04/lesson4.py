@@ -17,7 +17,7 @@ print("Hi "+ na)
 
 ho = input("what is ur favourite hobby ")
 
-
+print
 
 
 
