@@ -3,7 +3,8 @@ na = input("what is ur age")
 
 print(na)
 
-c = input("what is ur fav colo")
+c = input("what is ur fav colour")
+
 
 
 
