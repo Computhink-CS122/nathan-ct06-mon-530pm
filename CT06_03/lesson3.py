@@ -17,20 +17,20 @@ print("Hello from lesson 3")
 #task 3
 
 
-a = 100
-b = 2333
-print( a + b)
+# a = 100
+# b = 2333
+# print( a + b)
 
-c = (50 - 10)*3
-print(c)
+# c = (50 - 10)*3
+# print(c)
 
-d= 100/4
-print(d)
+# d= 100/4
+# print(d)
 
 
 
-e = (3 + 4) * 5 - (10 / 2)
-print(e)
+# e = (3 + 4) * 5 - (10 / 2)
+# print(e)
 
 
 
