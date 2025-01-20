@@ -1,5 +1,5 @@
 print("Hello from lesson 4")
-na = input("what is ur age")
+na = input("what is ur name")
 
 print(na)
 
