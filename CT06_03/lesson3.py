@@ -22,7 +22,7 @@ b = 2333
 print( a + b)
 
 c = 123
-print(123 )
+print(123 -10 )
 
 
 
