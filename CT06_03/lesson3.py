@@ -23,7 +23,7 @@ print( a + b)
 
 c = 50
 d = 10
-e
+e = 3
 print(123 -10 )
 
 
