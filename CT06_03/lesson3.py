@@ -30,7 +30,7 @@ print(d)
 
 
 e = (3 + 4) * 5 - (10 / 2)
-print
+print(e)
 
 
 
