@@ -9,7 +9,7 @@ print(c)
 
 age = input("what is ur age")
 
-
+print()
 
 
 # **Task 1a**:
