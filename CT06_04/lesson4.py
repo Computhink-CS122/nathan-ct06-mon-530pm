@@ -1,5 +1,5 @@
 print("Hello from lesson 4")
-na = input()
+na = input("")
 
 print(na)
 
