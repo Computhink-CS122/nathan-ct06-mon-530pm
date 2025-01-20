@@ -7,7 +7,7 @@ c = input("what is ur fav colour")
 
 print(c)
 
-
+age = input
 
 
 
