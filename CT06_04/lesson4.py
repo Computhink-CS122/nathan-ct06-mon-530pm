@@ -13,7 +13,7 @@
 
 
 na = input("what is ur name ")
-print("")
+print("Hi "+ na)
 
 
 
