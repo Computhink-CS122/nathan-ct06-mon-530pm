@@ -22,7 +22,7 @@ b = 2333
 print( a + b)
 
 c = (50 - 10)*3
-print()
+print(c)
 
 
 
