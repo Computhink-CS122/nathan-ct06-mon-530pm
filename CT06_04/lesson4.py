@@ -20,7 +20,7 @@ ho = input("what is ur favourite hobby ")
 print("I enjoy "+ ho)
 
 
-
+ 
 
 
 
