@@ -15,7 +15,7 @@
 na = input("what is ur name ")
 print("Hi "+ na)
 
-ho = input("what is ur ")
+ho = input("what is ur favourite hobby ")
 
 
 
