@@ -35,17 +35,17 @@ print("Hello from lesson 2")
 # ask for test 1 test 2 test 3
 # test 1 x 20% test 2 x 40% test 3 x 40%
 # add test 1 test 2 test 3 and tell them the ans
-test1 =input("test 1 score")
-test1 = int(test1)
-test2 =input("test 2 score")
-test2 = int(test2)
-test3 =input("test 3 score")
-test3 = int (test3)
-test4 =input("test 4 score")
-test4 = int(test4)
-score2=0.25*test2
-score1=0.25*test1
-score3=0.25*test3
-score4 = 0.25 *test4
-final= score1 + score2 +score3 + score4
-print("your final score is", final)
+# test1 =input("test 1 score")
+# test1 = int(test1)
+# test2 =input("test 2 score")
+# test2 = int(test2)
+# test3 =input("test 3 score")
+# test3 = int (test3)
+# test4 =input("test 4 score")
+# test4 = int(test4)
+# score2=0.25*test2
+# score1=0.25*test1
+# score3=0.25*test3
+# score4 = 0.25 *test4
+# final= score1 + score2 +score3 + score4
+# print("your final score is", final)
