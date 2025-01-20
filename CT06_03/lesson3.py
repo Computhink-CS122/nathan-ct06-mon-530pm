@@ -25,7 +25,7 @@ c = (50 - 10)*3
 print(c)
 
 d= 100/4
-print
+print(d)
 
 
 
