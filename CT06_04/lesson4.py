@@ -13,6 +13,7 @@
 
 
 na = input("what is ur name ")
+property
 
 
 
