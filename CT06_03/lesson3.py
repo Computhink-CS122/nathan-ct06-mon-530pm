@@ -6,7 +6,8 @@ print (age)
 # x = 20
 # print (x)
 
-num1
+num1 = 5
+num2 = 32
 
 
 
