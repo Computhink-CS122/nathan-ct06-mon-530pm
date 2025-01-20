@@ -15,7 +15,7 @@
 na = input("what is ur name ")
 print("Hi "+ na)
 
-ho = i
+ho = input( wha)
 
 
 
