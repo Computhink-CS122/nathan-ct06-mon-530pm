@@ -1,4 +1,4 @@
-print("Hello from lesson 4")
+# print("Hello from lesson 4")
 na = input("what is ur name")
 
 print(na)
