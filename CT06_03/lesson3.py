@@ -8,7 +8,7 @@ print (age)
 
 num1 = 5
 num2 = 32
-print = ()
+print = (num1 + 32)
 
 
 
