@@ -1,4 +1,18 @@
 print("Hello from lesson 4")
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 # **Task 1a**:
 # Use the input() function to ask the user for their name and
 # store it in a variable. Then print that variable.
